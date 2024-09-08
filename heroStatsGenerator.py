@@ -16,3 +16,8 @@ if total >= 50:
 else:
     print(f'{namae} you have {strength} strength, {intelligence} intelligence, '
           f'{endurance} endurance, {stamina} stamina and {charisma} charisma. You are not fit to be  a hero')
+
+powers = []
+power = input("What do you want to be your primary power: ")
+powers.append(power)
+print(f"Your primary super power will be {', '.join(powers)}")
