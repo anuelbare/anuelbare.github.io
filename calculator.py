@@ -45,7 +45,7 @@ def calculator():
             if next_calc.lower() != 'yes':
                 break
         else:
-            print("Invalid Input")
+            print("Invalid Input It can't work")
 
 # Run the calculator
 calculator()
