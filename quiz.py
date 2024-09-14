@@ -4,6 +4,7 @@ def quiz_game():
         "Who wrote 'Hamlet'?": "Shakespeare",
         "What is 5 + 7?": "12",
         "What is the largest ocean on Earth?": "Pacific"
+    "Who is the first man on the moon?" : "Neil Armstrong"
     }
     
     score = 0
