@@ -8,5 +8,5 @@ def alarm_clock(seconds):
     # Play a sound (requires external sound file or os-level beep command)
     os.system("echo -e '\a'")
 
-seconds = int(input("Enter time in seconds to set the alarm: "))
+seconds = int(input("Enter time only in seconds to set the alarm: "))
 alarm_clock(seconds)
