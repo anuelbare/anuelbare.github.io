@@ -11,6 +11,7 @@ word_list = [
     'bagpipes',
     'bandwagon',
     'banjo',
+    'barriater',
     'bayou',
     'beekeeper',
     'bikini',
